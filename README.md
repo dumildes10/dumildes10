@@ -1,31 +1,41 @@
-<Doctyp html>
-<head>
-<title>Tabela e formulario </title>
-<head/>
-<body>
-table with=200 border="10"
-                <
-  ="<tr" alt="">>
-                   <th>Tarefa do segundo trimestre</th>
-                   </tr>
-                   <tr>
-                       <th>Tarefa1</th>
-                   </tr>
-                   <tr>
-                       <th>tarefa2</th>
-                   </tr>
-                   <tr>
-                       <th>tarefa3</th>
-                   </tr>
-                   <tr>
-                       <th>tarefa4</th>
-                   </tr>
-                   <tr>
-                       <th>tarefa5</th>
-                   </tr>
-                   <tr>
-                       <th>tarefa6</th>
-                   </tr>
+Usa este código:
 
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercício 3</title>
+  <style>
+    .card {
+	  margin: 20px;
+	  position: relative;
+      width: 300px;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+      border-radius: 105px 0px 105px 0px;
+	  
+	  text-align: center;
+    }
+	#p{
+		color: red;
+	}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Título do Card</h2>
+    <p>Este é um card estilizado usando CSS.</p>
+	<p id="p">12	4234123523Este é um card estilizado usando CSS.</p>
+  </div>
+  <div class="card">
+    <h2>Título do Card</h2>
+    <p>Este é um card estilizado usando CSS.</p>
+	<p id="p">12	4234123523Este é um card estilizado usando CSS.</p>
+  </div>
 </body>
-<html/>
+</html>

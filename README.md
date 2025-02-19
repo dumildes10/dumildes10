@@ -1,7 +1,3 @@
-Usa este código:
-
-
-
 
 <!DOCTYPE html>
 <html lang="pt-BR">

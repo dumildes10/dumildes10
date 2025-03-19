@@ -1,0 +1,23 @@
+<!Doctype HTML>
+<html lang="pt-BR">
+    <head>
+        <Meta charset="UTF8">
+        <Meta name= "viewport content=width= device-width, initial-scale1.0 ">
+        <title>T1</title>
+        <Style>
+            h1
+            {
+            color: red;
+            font-family: arial sans serif
+            font-size;30 px
+            }
+            
+            p{ background-color light gray
+            color: black
+            padding:10 px
+            </style>
+            </head>
+            <body>
+                <H1> Este é primeiro exercicio da  Prova de TLP
+                </Body>
+        </html>
